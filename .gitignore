@@ -1,0 +1,20 @@
+# Local backups
+*.bak
+*.bak.*
+*.backup
+*.backup.*
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.orig
+*~
+.#*
+
+# Common editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
